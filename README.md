@@ -1,1 +1,0 @@
-# Introduccion-al-traiding-algoritmico
